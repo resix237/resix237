@@ -1,4 +1,4 @@
-### Hi there 👋
+module.exports = `### Hi there 👋
 
 I create application on the web and share my journey on [Twitter](https://twitter.com/melvynxdev) and [Youtube](https://www.youtube.com/channel/UC5HDIVwuqoIuKKw-WbQ4CvA) !
 
@@ -41,10 +41,11 @@ Correct the grammar of an entire book in 5 minutes.
 
 <img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
 
-Added the `Mon 3 Jan 2022`
+Added the \`Mon 3 Jan 2022\`
 
-Last update on Sat Sep 30 2023
+Last update on <#today_date>
 
-**93 day before 2024 ⏱** days before new years
+<#day_before_new_years> days before new years
 
-🤖 This README.md is updated with horror, by Gabot ❤️
+<#gabot_signing>
+`;

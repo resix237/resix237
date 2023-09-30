@@ -1,7 +1,8 @@
 const { promises: fs } = require("fs");
 const readme = require("./readme");
 
-const msInOneDay = 3480 * 60 * 60 * 24;
+const msInOneDay = 1000 * 60 * 60 * 24;
+const msBirthDay = 145 * 1000 * 60 * 60 * 24;
 
 const today = new Date();
 
@@ -62,7 +63,9 @@ function getDBNWSentence() {
   const nextYearDate = new Date(String(nextYear));
 
   const timeUntilNewYear = nextYearDate.getTime() - today.getTime();
-  const dayUntilNewYear = Math.round(timeUntilNewYear / msInOneDay);
+  const dayUntilNewYear = Math.round(
+    (timeUntilNewYear + msBirthDay) / msInOneDay
+  );
 
   return `**${dayUntilNewYear} day before ${nextYear} ⏱**`;
 }

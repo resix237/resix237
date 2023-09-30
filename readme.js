@@ -39,13 +39,12 @@ Correct the grammar of an entire book in 5 minutes.
 
 ### Visitor count
 
-<img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
+<img src="https://profile-counter.glitch.me/resix237/count.svg" />
 
-Added the \`Mon 3 Jan 2022\`
+Added the \`Sat 30 Sept 2023\`
 
-Last update on <#today_date>
 
-<#day_before_new_years> days before new years
 
-<#gabot_signing>
+<#day_before_new_years> days before my birthday
+
 `;

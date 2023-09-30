@@ -67,7 +67,7 @@ function getDBNWSentence() {
     (timeUntilNewYear + msBirthDay) / msInOneDay
   );
 
-  return `**${dayUntilNewYear} day before ${nextYear} ⏱**`;
+  return `**${dayUntilNewYear}  ⏱**`;
 }
 
 const findIdentifierIndex = (rows, identifier) =>

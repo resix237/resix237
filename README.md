@@ -55,6 +55,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/resixpro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="resixpro" /></a></p><br><br>
-
+<img src="https://profile-counter.glitch.me/resix237/count.svg" />
 **237  ⏱** days before my birthday
 

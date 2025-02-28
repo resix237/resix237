@@ -57,5 +57,5 @@
 <p><a href="https://www.buymeacoffee.com/resixpro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="resixpro" /></a></p><br><br>
 <br><b> Visist count </b><br>
 <img src="https://profile-counter.glitch.me/resix237/count.svg" />
-**453  ⏱** days before my birthday
+**452  ⏱** days before my birthday
 
